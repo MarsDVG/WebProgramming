@@ -14,3 +14,16 @@
 # **Contacts:**
 ### email: sampleEmail@mail.ru
 ### number: +375335156731
+
+
+# **Code example:**
+### static int QuickSort(int[] array)
+### {
+### int swaps = 0;
+### QuickSortHelper(array, 0, array.Length - 1, ref swaps);
+### return swaps;
+### }
+
+# **My skills:**
+### Adobe PhotoShop,
+### Adobe After Effects.
