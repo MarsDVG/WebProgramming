@@ -17,12 +17,14 @@
 
 
 # **Code example:**
-### static int QuickSort(int[] array)
-### {
-### int swaps = 0;
-### QuickSortHelper(array, 0, array.Length - 1, ref swaps);
-### return swaps;
-### }
+```c# 
+  static int QuickSort(int[] array)
+ {
+ int swaps = 0;
+ QuickSortHelper(array, 0, array.Length - 1, ref swaps);
+ return swaps;
+ }
+ ```
 
 # **My skills:**
 ### Adobe PhotoShop,
